@@ -1,7 +1,4 @@
 ![Banner](images/banner.jpeg)
-
-<h1 align="center">🚀 Laika Agent</h1>
-
 ---
 
 ## 📦 Installation and launch
