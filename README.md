@@ -1,4 +1,4 @@
-![Banner](images/banner.jpg)
+![Banner](images/banner.jpeg)
 
 <h1 align="center">🚀 Laika Agent</h1>
 
